@@ -28,6 +28,8 @@ code du zip = 089-802-8569
 ![image](https://user-images.githubusercontent.com/85285247/234005505-4066add9-c5b5-438c-b8c8-a4deaecaeda4.png)
 
 
+flag = O0xD{R3cur5iv3_M@tr0$chka}
+
 
 
 
